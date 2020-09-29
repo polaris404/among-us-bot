@@ -1,0 +1,12 @@
+{
+  "name": "among-us-bot",
+  "env": {
+    "TOKEN": {
+      "description": " see readme to how to get token",
+      "value": ""
+    }
+  },
+  "buildpacks": [{
+    "url": "heroku/python"
+  }]
+}
