@@ -6,6 +6,7 @@
       "value": ""
     }
   },
+  "repository": "https://github.com/hpnightowl/among-us-bot",
   "buildpacks": [{
     "url": "heroku/python"
   }]
