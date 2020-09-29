@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # among-us-bot for discord
 This is a custom discord bot I designed for Among Us game. You can host your own bot for your server.
 
